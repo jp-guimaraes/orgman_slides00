@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/orgman_slides00/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/orgman_slides00/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/1_intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/1_intro/</guid>
+      <description>Bem vindos! Curso de Organização e Manutenção de Computadores
+ Horários Momentos síncronos
+  Quinta-feira: 13:00 às 14:30
+  Sexta-feira: 14:40 às 16:10
+  Conteúdos assíncronos disponibilizados semanalmente via Microsoft Teams
+ Duração   Curso de 120h (160h/a)
+  Forma modular: 2 módulos de 10 semanas cada
+   Divisão dos módulos Mudança da dinâmica da disciplina:
+  Módulo 3: Teoria/simulações;
+  Módulo 4: Práticas/Experimentos/Trabalhos;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/2_apresentacao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/2_apresentacao/</guid>
+      <description> Apresentação https://jp-guimaraes.github.io/eu/
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/3_disciplina/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/3_disciplina/</guid>
+      <description>A Disciplina Organização e Manutenção de Computadores
+ Posicionamento dentro do curso Disciplinas em que se sustenta:
+  Informática Básica, Eletricidade Instrumental
+  Eletrônica Analógica e Digital
+  Disciplinas que suporta:
+ Fundamentos de Sistemas Operacionais e Sistemas Operacionais de Redes   Objetivos da disciplina Compreender o funcionamento dos microcomputadores e periféricos com objetivo de realizar manutenção preventiva e corretiva em microcomputadores
+ Objetivos específicos   Apreender os conceitos básicos relacionados à estrutura e funcionamento dos computadores digitais;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/4_museu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/4_museu/</guid>
+      <description> Museu do amanhã Novidades das últimas semanas que logo serão velharias mas antes precisarão ser entendidas
+ 2021 Processadores Intel de 13a geracao manterão suporte a memorias DDR4
+novo chip da intel bate m1 max mas perde em eficiencia energetica/
+zen 4 dense pode ser a resposta da amd a tecnologia intel-hybrid
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/orgman_slides00/home/5_manutencao_computadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/orgman_slides00/home/5_manutencao_computadores/</guid>
+      <description> Manutenção de Computadores https://jp-guimaraes.github.io/intro_manu/#/1
+ </description>
+    </item>
+    
+  </channel>
+</rss>
